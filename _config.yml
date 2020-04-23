@@ -30,6 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build setting
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 # Exclude from processing.
